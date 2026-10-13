@@ -2,6 +2,8 @@
 
 简体中文的交互调色工作室。采用 React、TypeScript、Vite、CSS 和 Vitest，纯前端运行，无后端、数据库、外部字体或网络 API。
 
+[在线调色](https://le1016.github.io/color-mix/) · [GitHub 仓库](https://github.com/le1016/color-mix)
+
 ## 本地运行
 
 推荐 Node.js 24 LTS（也支持 22.12+ 的 22.x，以及 26+），npm。已提供 package-lock.json。
