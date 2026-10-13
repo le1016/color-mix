@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithmVersion": "1.0.0",
+  "id": "example-cmy-green",
+  "mode": "cmy",
+  "components": [
+    { "id": "cyan", "color": { "r": 0, "g": 255, "b": 255 }, "percentage": 100 },
+    { "id": "yellow", "color": { "r": 255, "g": 255, "b": 0 }, "percentage": 100 }
+  ],
+  "result": { "r": 0, "g": 255, "b": 0 },
+  "savedAt": "2026-10-13T00:00:00.000Z"
+}

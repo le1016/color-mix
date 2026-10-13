@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithmVersion": "1.0.0",
+  "id": "example-rgb-yellow",
+  "mode": "rgb",
+  "components": [
+    { "id": "red", "color": { "r": 255, "g": 0, "b": 0 }, "percentage": 100 },
+    { "id": "green", "color": { "r": 0, "g": 255, "b": 0 }, "percentage": 100 }
+  ],
+  "result": { "r": 255, "g": 255, "b": 0 },
+  "savedAt": "2026-10-13T00:00:00.000Z"
+}
