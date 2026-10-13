@@ -7,7 +7,8 @@
 推荐 Node.js 24 LTS（也支持 22.12+ 的 22.x，以及 26+），npm。已提供 package-lock.json。
 
 ```powershell
-cd 'D:\地理隔离\Linaria\color-mixing-studio'
+git clone https://github.com/le1016/color-mix.git
+cd color-mix
 npm ci
 npm run dev
 ```
